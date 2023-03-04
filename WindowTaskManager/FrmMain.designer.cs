@@ -31,11 +31,11 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
             this.BtnCloseApps = new System.Windows.Forms.Button();
             this.DtGv1 = new System.Windows.Forms.DataGridView();
-            this.BtnRefresh = new System.Windows.Forms.Button();
             this.ClmnSelect = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.ClmnName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ClmnNumber = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ClmnUserName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.BtnRefresh = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DtGv1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,16 +72,6 @@
             this.DtGv1.Size = new System.Drawing.Size(445, 252);
             this.DtGv1.TabIndex = 1;
             // 
-            // BtnRefresh
-            // 
-            this.BtnRefresh.Location = new System.Drawing.Point(12, 12);
-            this.BtnRefresh.Name = "BtnRefresh";
-            this.BtnRefresh.Size = new System.Drawing.Size(142, 35);
-            this.BtnRefresh.TabIndex = 2;
-            this.BtnRefresh.Text = "Refresh";
-            this.BtnRefresh.UseVisualStyleBackColor = true;
-            this.BtnRefresh.Click += new System.EventHandler(this.BtnRefresh_Click);
-            // 
             // ClmnSelect
             // 
             this.ClmnSelect.HeaderText = "Select";
@@ -95,7 +85,7 @@
             this.ClmnName.Name = "ClmnName";
             this.ClmnName.ReadOnly = true;
             this.ClmnName.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.ClmnName.Width = 85;
+            this.ClmnName.Width = 78;
             // 
             // ClmnNumber
             // 
@@ -112,6 +102,16 @@
             this.ClmnUserName.ReadOnly = true;
             this.ClmnUserName.Visible = false;
             this.ClmnUserName.Width = 78;
+            // 
+            // BtnRefresh
+            // 
+            this.BtnRefresh.Location = new System.Drawing.Point(12, 12);
+            this.BtnRefresh.Name = "BtnRefresh";
+            this.BtnRefresh.Size = new System.Drawing.Size(142, 35);
+            this.BtnRefresh.TabIndex = 2;
+            this.BtnRefresh.Text = "Refresh";
+            this.BtnRefresh.UseVisualStyleBackColor = true;
+            this.BtnRefresh.Click += new System.EventHandler(this.BtnRefresh_Click);
             // 
             // FrmMain
             // 
