@@ -1,0 +1,9 @@
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.csprojResolveAssemblyReference.cache
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.Properties.Resources.resources
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.csproj.GenerateResource.Cache
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.csproj.CoreCompileInputs.cache
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\bin\Debug\WindowTaskManager.exe
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\bin\Debug\WindowTaskManager.pdb
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.FrmMain.resources
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.exe
+H:\Projects\FriendsProjects\Freelance\Window Task Manager\WindowTaskManager\WindowTaskManager\obj\Debug\WindowTaskManager.pdb
